@@ -1,0 +1,7 @@
+user_id,application_name,event_type,response_time,status
+101,PayrollApp,login,120,success
+102,PayrollApp,login,500,error
+103,HRApp,update_profile,200,success
+104,HRApp,login,450,error
+105,FinanceApp,submit_report,300,success
+106,FinanceApp,login,600,error
