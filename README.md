@@ -13,3 +13,9 @@ This project analyzes application usage and error logs to identify errors and pe
 - Calculates average response time
 
 This project demonstrates application monitoring and analytical skills relevant to an Application Analyst role.
+
+## Sample Output
+
+The script generates a summary showing total application events,
+error counts, and average response time to help identify performance issues.
+
